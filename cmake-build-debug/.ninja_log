@@ -1,0 +1,5 @@
+# ninja log v5
+4	333	7018011326537836	build.ninja	6835f12ef3cbd05b
+6	158	7018011329210146	CMakeFiles/telematicas_programacion_dinamica.dir/main.c.obj	e5b78731ee606309
+0	207	7018011329697140	CMakeFiles/telematicas_programacion_dinamica.dir/ivector.c.obj	9c1feee2256ee290
+207	364	7018011331208599	telematicas_programacion_dinamica.exe	afd020f69218b2d8
